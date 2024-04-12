@@ -7313,9 +7313,9 @@ do
         return list
     end
 end
--- // Init
---[[do
-    local title_string = "Splix - Private | %A, %B"
+-- // Initdo
+
+    local title_string = " Bosniahook.xyz | %A, %B | dev build 1.1.0"
     local day = os.date(" %d", os.time())
     local second_string = ", %Y."
     title_string = os.date(title_string, os.time())..day..utility:GetSubPrefix(day)..os.date(second_string, os.time())
