@@ -1,3 +1,3 @@
-# Gamesneeze / Atlanta fork
+# Bosniahook.xyz
 
 gamesneeze fork for my epic cheat bosniahook.xyz
